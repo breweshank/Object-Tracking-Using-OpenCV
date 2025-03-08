@@ -12,7 +12,7 @@ This project implements real-time object tracking using OpenCV. The program dete
 ## 🛠️ Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/breweshank/object-tracking-opencv.git
+git clone 'https://github.com/breweshank/object-tracking-opencv.git'
 cd object-tracking-opencv
 ```
 
